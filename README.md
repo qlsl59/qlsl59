@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Been's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Been's%20GitHub%20👋&animation=fadeIn&fontSize=35&fontColor=d6ace6&fontAlignY=40&fontAlign=70&height=200&textBg=true)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
